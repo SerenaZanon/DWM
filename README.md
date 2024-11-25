@@ -1,4 +1,7 @@
-This project was realised by Andrea Giacomello and Serena Zanon for the 'Data and Web Mining' university course. 
+# University course: DATA AND WEB MINING
+# Task: Prediction and analysis
+
+This project was realised by Andrea Giacomello and Serena Zanon. 
 
 The aim of the project is the prediction of house prices in the given dataset.
 
